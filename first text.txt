@@ -1,3 +1,4 @@
 ahihaih
 
 thanh tung test git pull, thu tao conflict voi local
+Test DevBranch_Bruce de tao confilct voi master
