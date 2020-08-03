@@ -1,4 +1,4 @@
-ahihaih
+Chinh sua file first text.txt
 
 thanh tung test git pull, thu tao conflict voi local
 Dong nay o nhanh master se tao conflict voi branch Bruce
