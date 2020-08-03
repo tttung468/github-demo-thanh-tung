@@ -1,3 +1,6 @@
 haha
 Chua khoi tao branch nao
 Thao tac 01 tren DevBranch_Bruce
+Thao tac 02
+Thao tac 03
+Thao tac 04
