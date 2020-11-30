@@ -4,3 +4,5 @@ Thao tac 01 tren DevBranch_Bruce
 Thao tac 02
 Thao tac 03
 Thao tac 04
+
+thao tac 1 de test conflict tren DevBranch_Tung
