@@ -5,3 +5,5 @@ Thao tac 02
 Thao tac 03
 Thao tac 04
 Thao tac 05
+
+thao tac 1 de test conflict tren DevBranch_Bruce
