@@ -9,6 +9,8 @@ Thao tac 06
 Thao tac 07
 Thao tac 08
 
+thao tac 1 de test conflict tren DevBranch_Bruce
+
 thao tac moi tren branch master
 thao tac 01
 thao tac 02
